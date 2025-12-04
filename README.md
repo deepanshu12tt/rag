@@ -4,6 +4,7 @@
 
 A simple offline Retrieval-Augmented Generation (RAG) prototype that stores notes locally, embeds them, and retrieves relevant text using semantic search. This version performs retrieval and augmentation; it does not generate final LLM answers.
 
+---
 ## Features
 
 * Runs fully offline
@@ -52,4 +53,5 @@ python main.py
 This prototype performs retrieval only. For a full RAG pipeline, integrate an LLM to generate final answers using the retrieved context.
 
 ---
+
 
