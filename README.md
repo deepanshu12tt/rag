@@ -48,10 +48,11 @@ Run the demo:
 python main.py
 ```
 
-## Notes
+## important note
 
 This prototype performs retrieval only. For a full RAG pipeline, integrate an LLM to generate final answers using the retrieved context.
 
 ---
+
 
 
